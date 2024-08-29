@@ -1,1 +1,0 @@
-# Jawaban_Mobile_Ganjil_2024
