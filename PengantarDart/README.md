@@ -42,8 +42,11 @@ Operator relasional:
 
 - '>' memeriksa apakah operan kiri lebih besar dari operan kanan
 - '<' memeriksa apakah operan kiri lebih kecil dari operan kanan
-- '>' = memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
+- '>=' memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
 - '<=' memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
 
 contoh program dart untuk menampilkan hello dengan increment
 ![alt text](image.png)
+
+Penjelasan
+![alt text](image-1.png)
