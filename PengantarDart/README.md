@@ -25,25 +25,25 @@ Dart di eksekusi dalam 2 cara yaitu dengan dart vm dan javascript compilations, 
 
 Dart berbasis PBO, serta mendukung operator :
 
-- untuk tambahan.
-- untuk pengurangan.
-- untuk perkalian.
-- / untuk pembagian.
-- ~/ untuk pembagian bilangan bulat.
-- % untuk operasi modulus (sisa bagi dari bilangan bulat).
-- -expression untuk negasi (yang membalikkan suatu nilai).
+- '+' untuk tambahan.
+- '-' untuk pengurangan.
+- '\*' untuk perkalian.
+- '/' untuk pembagian.
+- '~/' untuk pembagian bilangan bulat.
+- '%' untuk operasi modulus (sisa bagi dari bilangan bulat).
+- '-expression' untuk negasi (yang membalikkan suatu nilai).
 
 Operator equality:
 
-- == memeriksa apakah operan sama
-- != memeriksa apakah operan berbeda
+- '==' memeriksa apakah operan sama
+- '!=' memeriksa apakah operan berbeda
 
 Operator relasional:
 
-- > memeriksa apakah operan kiri lebih besar dari operan kanan
-- < memeriksa apakah operan kiri lebih kecil dari operan kanan
-- > = memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
-- <= memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
+- '>' memeriksa apakah operan kiri lebih besar dari operan kanan
+- '<' memeriksa apakah operan kiri lebih kecil dari operan kanan
+- '>' = memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
+- '<=' memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
 
 contoh program dart untuk menampilkan hello dengan increment
 ![alt text](image.png)
