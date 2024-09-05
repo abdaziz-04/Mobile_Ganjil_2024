@@ -48,5 +48,4 @@ Operator relasional:
 contoh program dart untuk menampilkan hello dengan increment
 ![alt text](image.png)
 
-Penjelasan
-![alt text](image-1.png)
+di dart ada dartpad yang berfungsi layaknya playground agar kita bisa mencoba dart di web browser tanpa harus install dart di laptop kita
