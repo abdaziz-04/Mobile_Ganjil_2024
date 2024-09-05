@@ -21,4 +21,26 @@ Dart merupakan inti dari framework flutter, dan memiliki kelebihan sebagai berik
 - Statically typed
 - Portability
 
-Dart
+Dart di eksekusi dalam 2 cara yaitu dengan dart vm dan javascript compilations, Eksekusi dart beroperasi dalam 2 mode yaitu kompilasi Just-In-Time (JIT) atau Kompilasi Ahead-Of-Time (AOT)
+
+Dart berbasis PBO, serta mendukung operator :
+
+- untuk tambahan.
+- untuk pengurangan.
+- untuk perkalian.
+- / untuk pembagian.
+- ~/ untuk pembagian bilangan bulat.
+- % untuk operasi modulus (sisa bagi dari bilangan bulat).
+- -expression untuk negasi (yang membalikkan suatu nilai).
+
+Operator equality:
+
+- == memeriksa apakah operan sama
+- != memeriksa apakah operan berbeda
+
+Operator relasional:
+
+- > memeriksa apakah operan kiri lebih besar dari operan kanan
+- < memeriksa apakah operan kiri lebih kecil dari operan kanan
+- > = memeriksa apakah operan kiri lebih besar dari atau sama dengan operan kanan
+- <= memeriksa apakah operan kiri kurang dari atau sama dengan operan kanan
