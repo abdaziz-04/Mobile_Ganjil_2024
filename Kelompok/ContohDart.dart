@@ -1,7 +1,6 @@
+late String name;
+
 void main() {
-  int? age = 16;
-
-  int ageValue = age ?? 10;
-
-  print(ageValue);
+  name = "John";
+  print(name);
 }
