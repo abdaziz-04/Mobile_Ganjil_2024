@@ -23,5 +23,7 @@ kode tersebut merupakan sebuah perulangan yang akan terus menerus mem-print nila
 
 # Langkah 3 - Penjelasan
 
+Output:
+![alt text](image-6.png)
 Kode tersebut akan melakukan perulangan, hingga kondisi tidak terpenuhi. bedanya, dalam do while
 kode akan di eksekusi terlebih dahulu sebelum melakukan pengecekan kondisi
