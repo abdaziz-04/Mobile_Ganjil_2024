@@ -1,3 +1,5 @@
+# PRAKTIKUM 1
+
 # Langkah 1 - Penjelasan
 
 Output adalah Test2 sesuai dengan print dengan kondisi test = "test2", hal ini terjadi karena string dalam varianel test adalah "test2" yang dimana sesuai dengan pengecekan if else kedua
@@ -10,3 +12,13 @@ Namun tetap ada error
 ![alt text](image-1.png)
 error tersebut terjadi karena kondisi berssifat tidak statis, cara mengatasinya adalah dengan
 ![alt text](image-2.png)
+
+# PRAKTIKUM 2
+
+# Langkah 1 - Penjelasan
+
+terjadi error ![alt text](image-3.png) karena variable counter belum dibuat terlebih dahulu, cara mengatasinya ![alt text](image-4.png)
+maka output akan menjadi ![alt text](image-5.png)
+kode tersebut merupakan sebuah perulangan yang akan terus menerus mem-print nilai ounter sampai kondisi tidak terpenuhi
+
+# Langkah 3 - Penjelasan
