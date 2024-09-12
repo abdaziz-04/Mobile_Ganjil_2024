@@ -19,6 +19,9 @@ error tersebut terjadi karena kondisi berssifat tidak statis, cara mengatasinya 
 
 terjadi error ![alt text](image-3.png) karena variable counter belum dibuat terlebih dahulu, cara mengatasinya ![alt text](image-4.png)
 maka output akan menjadi ![alt text](image-5.png)
-kode tersebut merupakan sebuah perulangan yang akan terus menerus mem-print nilai ounter sampai kondisi tidak terpenuhi
+kode tersebut merupakan sebuah perulangan yang akan terus menerus mem-print nilai counter sampai kondisi tidak terpenuhi
 
 # Langkah 3 - Penjelasan
+
+Kode tersebut akan melakukan perulangan, hingga kondisi tidak terpenuhi. bedanya, dalam do while
+kode akan di eksekusi terlebih dahulu sebelum melakukan pengecekan kondisi
