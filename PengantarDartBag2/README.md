@@ -45,3 +45,11 @@ terjadi error karena penulisan tidak sesuai, cara mengatasinya ![alt text](image
 Output:
 ![alt text](image-12.png)
 Kode di atas melakukan perulangan mencetak index dari 10 hingga kurang dari 27, kemudian jika index = 21 maka perulangan akan bergenti, kemudian jika index memenuhi syarat >1 atau <7 maka perulangan dilanjutkan tanpa mencetak nilai, sehingga nilai di rentang tersebut tidak tampil di output
+
+# TUGAS
+
+Kode:
+![alt text](image-14.png)
+
+Output:
+![alt text](image-13.png)
