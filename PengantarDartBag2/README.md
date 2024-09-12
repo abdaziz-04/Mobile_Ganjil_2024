@@ -27,3 +27,14 @@ Output:
 ![alt text](image-6.png)
 Kode tersebut akan melakukan perulangan, hingga kondisi tidak terpenuhi. bedanya, dalam do while
 kode akan di eksekusi terlebih dahulu sebelum melakukan pengecekan kondisi
+
+# PRAKTIKUM 3
+
+# Langkah 1 - Penjelasan
+
+![alt text](image-7.png) error karena variable index belum di instansiasi dan pemanggilan yang tidak konsisten serta terjadi infinity loop, cara mengatasi ![alt text](image-9.png)
+
+Output:
+![alt text](image-10.png)
+
+ini akan melakukan perulangan sehingga kondisi index < 27 tidak terpenuhi kemudain setiap perulangan maka index akan di increment
