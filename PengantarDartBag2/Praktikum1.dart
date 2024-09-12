@@ -7,4 +7,9 @@ void main() {
   } else {
     print("Something else");
   }
+
+  String test1 = "true";
+  if (test1 == "true") {
+    print("Kebenaran");
+  }
 }
