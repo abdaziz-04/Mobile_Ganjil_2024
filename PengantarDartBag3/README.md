@@ -26,3 +26,9 @@ kode tersebut akan membuat sebuah variabel list, kemudian akan di print pada kon
 # Praktikum 2 - Langkah 3
 
 Output ![alt text](/images/image-1.png), Tidak ada error namun konsol hanya akan menampilkan 3 buah array kosong
+var names1 = <String>{}; dan Set<String> names2 = {};
+Berfungsi membuat variable set
+yang hanya memperbolehkan tipe data string, set sendiri merupakan variable dalam dart yang tidak akan mengizinkan adanya duplikasi elemen
+
+var names3 = {};
+Membuat variable map
