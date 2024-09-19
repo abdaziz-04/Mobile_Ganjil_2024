@@ -10,6 +10,7 @@ void main() {
   var list3 = [0, ...?list1];
   print(list3.length);
 
+  bool promoActive = false;
   var nav = ['Home', 'Furniture', 'Plants', if (promoActive) 'Outlet'];
   print(nav);
 }

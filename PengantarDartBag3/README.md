@@ -70,3 +70,14 @@ error karena list harusnya int dan tidak boleh ada null, cara memgatasinya denga
 ![alt text](/images/image-12.png)
 
 # Praktikum 4 - Langkah 4
+
+![alt text](/images/image-13.png)
+karena promoActive belum di definisikan, cara mengatasinya
+![alt text](/images/image-14.png)
+Output:
+apabila promoActive bernilai true
+![alt text](/images/image-15.png)
+Apabila false
+![alt text](/images/image-16.png)
+
+beda karena ada sebuah kondisi yang apabila promoActive bernilai true maka akan ditambahkan nilai 'Outlet' ke dalam list
