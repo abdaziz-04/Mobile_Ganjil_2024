@@ -81,3 +81,10 @@ Apabila false
 ![alt text](/images/image-16.png)
 
 beda karena ada sebuah kondisi yang apabila promoActive bernilai true maka akan ditambahkan nilai 'Outlet' ke dalam list
+
+# Praktikum 4 - Langkah 5
+
+![alt text](/images/image-17.png)
+jika kondisi berbeda
+![alt text](/images/image-18.png)
+ini menyesuaikan berdasarkan nilai tiap case

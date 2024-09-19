@@ -13,4 +13,16 @@ void main() {
   bool promoActive = false;
   var nav = ['Home', 'Furniture', 'Plants', if (promoActive) 'Outlet'];
   print(nav);
+
+  String? login = 'Admin';
+  var nav2 = [
+    'Home',
+    'Furniture',
+    'Plants',
+    if (login case 'Manager')
+      'Inventory'
+    else if (login case 'Admin')
+      'Dashboard',
+  ];
+  print(nav2);
 }
