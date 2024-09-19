@@ -51,3 +51,22 @@ Mengubah data dalam maps berdasarkan key
 fungsi addAll() pada mhs1 saya buat untuk menambahkan data yang berupa nama dan nim saya dengan key nama dan nim
 saya memilih menggunakan cara tersebut karena sebelumnya map mhs1 sudah di inisialisasi dengan key dan value berupa String
 kemudian untuk mhs2 saya menggunakan key bernilai integer dan value string menyesuaikan dengan peng-inisialisasi map sebelumnya
+
+# Praktikum 4 - Langkah 2
+
+![alt text](/images/image-8.png)
+terjadi error karena nama yang dipanggil pada print tidak sesuai, cara perbaikinya cukup dengan menyesuaikan namanya
+
+output:
+![alt text](/images/image-9.png)
+menampilkan data yanga ada di list kemudian menampilkan panjang dari list tersebut
+fungsi ...list berguna untuk mengambil semua data dari list
+
+# Praktikum 4 - Langkah 3
+
+![alt text](/images/image-10.png)
+error karena list harusnya int dan tidak boleh ada null, cara memgatasinya dengan membuat list dapat menampung nilai null
+![alt text](/images/image-11.png)
+![alt text](/images/image-12.png)
+
+# Praktikum 4 - Langkah 4
