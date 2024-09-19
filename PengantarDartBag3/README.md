@@ -37,3 +37,8 @@ Menambah data pada names1 dan names2 dengan menggunakan add(), dan addAll()
 ![alt text](/images/image-2.png)
 ![alt text](/images/image-3.png)
 fungsi add() akan menambahkan 1 data ke dalam variable yang dituju, sedangkan addAll() akan menambah seluruh list data yang berada di dalam fungsi (bisa menambahkan beberapa data sekaligus)
+
+# Praktikum 3 - Langkah 1
+
+![alt text](/images/image-4.png)
+membuat data maps yang memiliki key dan value, kemudian memprintnya pada console
