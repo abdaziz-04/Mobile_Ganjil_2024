@@ -17,3 +17,12 @@ setelah itu dilakukan pengecekan lagi kemudian di lakukan print ke konsol
 # Praktikum 1 - Langkah 3
 
 apabila langsung mengisikan data null kemudian langsung di ubah maka akan terjadi error karena nilai di list bersifat null dan tidak dapat di ubah ![alt text](/images/image1.png)
+
+# Praktikum 2 - Langkah 2
+
+Output ![alt text](/images/image.png), tidak terjadi error
+kode tersebut akan membuat sebuah variabel list, kemudian akan di print pada konsol.
+
+# Praktikum 2 - Langkah 3
+
+Output ![alt text](/images/image-1.png), Tidak ada error namun konsol hanya akan menampilkan 3 buah array kosong
