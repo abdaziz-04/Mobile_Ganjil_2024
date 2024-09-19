@@ -21,6 +21,10 @@ void main() {
   nobleGases[10] = 'neon';
   nobleGases[18] = 'argon';
 
+  // Menambah data ke map
+  mhs1.addAll({'nama': 'Abdul Aziz', 'nim': '2241720088'});
+  mhs2.addAll({2241720088: 'Abdul Aziz'});
+
   print("=========================");
   print(gifts);
   print(nobleGases);
