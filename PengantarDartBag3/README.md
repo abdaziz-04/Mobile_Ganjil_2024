@@ -42,3 +42,12 @@ fungsi add() akan menambahkan 1 data ke dalam variable yang dituju, sedangkan ad
 
 ![alt text](/images/image-4.png)
 membuat data maps yang memiliki key dan value, kemudian memprintnya pada console
+
+# Praktikum 3 - Langkah 3
+
+![alt text](/images/image-6.png)
+Mengubah data dalam maps berdasarkan key
+![alt text](/images/image-7.png)
+fungsi addAll() pada mhs1 saya buat untuk menambahkan data yang berupa nama dan nim saya dengan key nama dan nim
+saya memilih menggunakan cara tersebut karena sebelumnya map mhs1 sudah di inisialisasi dengan key dan value berupa String
+kemudian untuk mhs2 saya menggunakan key bernilai integer dan value string menyesuaikan dengan peng-inisialisasi map sebelumnya
