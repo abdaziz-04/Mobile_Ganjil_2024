@@ -3,7 +3,7 @@
 # Praktikum 1 - Langkah 1
 
 saat di eksekusi program akan menampilkan output:
-![alt text](/image/image.png)
+![alt text](images/image.png)
 fungsi assert berguna untuk mengecek apakah paramter bernilai di dalamnya, untuk kasus tersebut, assert mengecek apakah length (panjang dari list) berjumlah 3 atau tidak, apabila bukan 3 maka akan terjadi error
 kemudian ada pengecekan lagi dengan assert yaitu mengcek indeks ke 1 dari list
 
