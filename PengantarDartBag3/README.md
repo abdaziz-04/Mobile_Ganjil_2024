@@ -85,6 +85,10 @@ beda karena ada sebuah kondisi yang apabila promoActive bernilai true maka akan 
 # Praktikum 4 - Langkah 5
 
 ![alt text](images/image-17.png)
-jika kondisi berbeda
+ini dengan nilai login = Manager akan menampilkan inventory
 ![alt text](images/image-18.png)
-ini menyesuaikan berdasarkan nilai tiap case
+ini menyesuaikan berdasarkan nilai tiap case, karena disini nilai = Admin yang dimana dalam kondisi else if (login case 'Admin')
+'Dashboard',
+maka akan menambahkan Dashboard ke dalam list
+
+# Praktikum 4 - Langkah 6
