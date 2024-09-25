@@ -106,3 +106,8 @@ Output:
 Ini akan membuat sebuah list dengan data 1, 2, 3, kemudian list tersebut dibuat kembali menggunakan list comprehension(perulangan), dengan menambahkan #0 berdasarkan elemen elemen di list pertama
 kemudian fungsi assert digunakan untuk memeriksa apakah indeks ke 1 benar #1
 selanjutnya di print
+
+# Praktikum 5 - Langkah 2
+
+Kode :
+![alt text](images/image-24.png)
