@@ -111,3 +111,50 @@ selanjutnya di print
 
 Kode :
 ![alt text](images/image-24.png)
+
+Output :
+![alt text](images/image-25.png)
+
+Kode tersebut membuat sebuah record di dart yang dapat menyimpan beberapa kombinasi nilai
+
+# Praktikum 5 - Langkah 3
+
+Kode :
+![alt text](images/image-27.png)
+
+Output :
+![alt text](images/image-26.png)
+
+(int, int) tukar((int, int) record) {
+var (a, b) = record;
+return (b, a);
+}
+Membuat fungsi untuk menukar nilai. berisi record yang berisi 2 buah nilai integer dan integer kemudian memisahkan record menjadi 2 variable yang kemudian di return dengan nilai terbalik
+
+var swapped = tukar((2, 1));
+Mengimplementasikan fungsi tuka pada variabel swapped
+
+# Praktikum 5 - Langkah 4
+
+Error
+![alt text](images/image-28.png)
+Cara mengatasi
+![alt text](images/image-29.png)
+Meng-assign nilai ke dalam record terlebuh dahulu sesuai tipe data yang ada pada record
+
+Output :
+![alt text](images/image-30.png)
+
+# Praktikum 5 - Langkah 5
+
+Kode sebelum diganti :
+![alt text](images/image-31.png)
+
+Output sebelum diganti :
+![alt text](images/image-32.png)
+
+Kode sesudah diganti :
+![alt text](images/image-33.png)
+
+Output sesudah diganti :
+![alt text](images/image-34.png)
