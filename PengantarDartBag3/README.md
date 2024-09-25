@@ -84,6 +84,10 @@ beda karena ada sebuah kondisi yang apabila promoActive bernilai true maka akan 
 
 # Praktikum 4 - Langkah 5
 
+Kode:
+![alt text](images/image-23.png)
+
+Output:
 ![alt text](images/image-17.png)
 ini dengan nilai login = Manager akan menampilkan inventory
 ![alt text](images/image-18.png)
