@@ -158,3 +158,53 @@ Kode sesudah diganti :
 
 Output sesudah diganti :
 ![alt text](images/image-34.png)
+
+# TUGAS PRAKTIKUM
+
+![alt text](image-1.png)
+
+2. Fungsi merupakan sekumpulan blok kode yang dapat dijalankan sekaligus saat memanggil fungsi tersebut
+3. Jenis jenis parameter di dart
+   a. Positional Parameter
+   Parameter yang harus diisi berdasarkan urutannya.
+   Contoh:
+   ![alt text](image-2.png)
+   b. Optional Positional Parameters
+   Parameter yang bersifat opsional dan ditandai dengan []. Jika tidak diberikan, nilai default-nya adalah null.
+   Contoh:
+   ![alt text](image-3.png)
+   c. Named Parameters
+   Parameter yang disebutkan dengan nama saat dipanggil dan bersifat opsional. Bisa juga diberikan nilai default.
+   Contoh:
+   ![alt text](image-4.png)
+   d. Optional Named Parameters
+   Parameter yang tidak wajib diisi dan memiliki nilai default.
+   Contoh:
+   ![alt text](image-5.png)
+4. Functions sebagai First-Class Objects
+   Dalam Dart, functions adalah objek first-class. Ini berarti fungsi dapat:
+   - Disimpan dalam variabel.
+   - Diberikan sebagai argumen ke fungsi lain.
+   - Dikembalikan sebagai hasil dari fungsi lain.
+5. Anonymous Functions
+   Anonymous functions (fungsi tanpa nama) adalah fungsi yang dideklarasikan tanpa nama. Biasanya digunakan ketika fungsi hanya dipakai sekali, seperti dalam callback atau fungsi sementara.
+   Contoh :
+   ![alt text](image-6.png)
+   Dalam contoh di atas, (number) { print(number \* 2); } adalah anonymous function yang digunakan dalam forEach.
+6. Lexical Scope dan Lexical Closures
+   a. Lexical Scope
+   Lexical scope mengacu pada cakupan variabel yang didefinisikan di dalam suatu blok kode. Variabel hanya dapat diakses dari dalam cakupan di mana ia didefinisikan.
+   Contoh :
+   ![alt text](image-7.png)
+   b. Lexical Closures
+   Lexical closure adalah fungsi yang dapat mengingat dan menggunakan variabel dari lexical scope di mana ia didefinisikan, bahkan setelah cakupan tersebut tidak lagi aktif.
+   Contoh :
+   ![alt text](image-8.png)
+7. Return Multiple Values di Functions
+   Dart tidak mendukung pengembalian beberapa nilai secara langsung, tetapi kamu dapat menggunakan records (Dart 3 ke atas) atau menggunakan tuple-like structure dengan cara lain seperti array, map, atau class.
+   - Menggunakan Records (Versi dart 3)
+     ![alt text](image-9.png)
+   - Menggunakan list
+     ![alt text](image-10.png)
+   - mEnggunakan map
+     ![alt text](image-11.png)
