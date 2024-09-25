@@ -25,4 +25,9 @@ void main() {
       'Dashboard',
   ];
   print(nav2);
+
+  var listofInts = [1, 2, 3];
+  var listofStrings = ['#0', for (var i in listofInts) '#$i'];
+  assert(listofStrings[1] == '#1');
+  print(listofStrings);
 }

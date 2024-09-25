@@ -92,3 +92,13 @@ ini menyesuaikan berdasarkan nilai tiap case, karena disini nilai = Admin yang d
 maka akan menambahkan Dashboard ke dalam list
 
 # Praktikum 4 - Langkah 6
+
+Kode:
+![alt text](images/image-22.png)
+
+Output:
+![alt text](images/image-21.png)
+
+Ini akan membuat sebuah list dengan data 1, 2, 3, kemudian list tersebut dibuat kembali menggunakan list comprehension(perulangan), dengan menambahkan #0 berdasarkan elemen elemen di list pertama
+kemudian fungsi assert digunakan untuk memeriksa apakah indeks ke 1 benar #1
+selanjutnya di print
